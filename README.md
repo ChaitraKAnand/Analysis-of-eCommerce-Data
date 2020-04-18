@@ -36,5 +36,5 @@ To install MongoDB refer to "https://github.com/nikunjness/mongo-ambari"
 
 ## Proposed pipeline
 
-![BestBuy_Pipeline.PNG](attachment:BestBuy_Pipeline.PNG)
+![C:\Users\Chaitu\Documents\Sem_2\Big Data\Project\BestBuy_Pipeline.PNG](attachment:BestBuy_Pipeline.PNG)
 
