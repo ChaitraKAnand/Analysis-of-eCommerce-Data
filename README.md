@@ -7,10 +7,7 @@ This repository consists of work done on analysis of eCommerce(Best Buy) data us
 * [About the Project](#about-the-project)
 * [Getting Started](#getting-started)
 * [Proposed Pipeline](#Proposed Pipeline)
-  * [Data Acquisition](#Data Acquisition)
-  * [Data Ingestion](#Data Ingestion)
-  * [ETL](#ETL)
-  * [Visualization](#Visualization)
+
 
 
 
@@ -38,4 +35,6 @@ https://www.youtube.com/watch?v=tCxY8UwcPXs&t=12s
 To install MongoDB refer to "https://github.com/nikunjness/mongo-ambari" 
 
 ## Proposed pipeline
+
+![BestBuy_Pipeline.PNG](attachment:BestBuy_Pipeline.PNG)
 
